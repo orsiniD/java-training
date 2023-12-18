@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec java --enable-preview -jar target/java-training-1.0-SNAPSHOT.jar "$@"
